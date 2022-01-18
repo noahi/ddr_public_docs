@@ -1,0 +1,16 @@
+site_name: Datadistillr Docs
+
+nav:
+  - Home: index.md
+  - Getting Started: 
+    - Getting Started: Getting-Started/getting_started.md
+    - Connecting A Data Source: Getting-Started/connecting-a-data-source-and-uploading-a-file.md
+    - Create An Account: Getting-Started/create-your-account.md
+    - Create Your First Project: Getting-Started/create-your-first-project.md
+    - Publish Your Data: Getting-Started/publishing-your-data.md
+    - Running A Query: Getting-Started/running-a-query.md
+    - Visualizing Your Data: Getting-Started/visualizing-your-data.md
+theme:
+  name: material
+  # features:
+  #   - navigation.tabs
