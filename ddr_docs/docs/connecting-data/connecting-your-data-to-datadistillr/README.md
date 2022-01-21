@@ -23,11 +23,11 @@ DataDistillr does support integrations with single sign on (SSO) systems, as wel
 
 At the top of the screen, click on the `Data Sources` link.  This will take you to the Data Sources screen where you can view the data sources you already have connected.&#x20;
 
-![The Data Sources Button](<../../.gitbook/assets/Screen Shot 2021-11-14 at 10.59.12 AM.png>)
+![The Data Sources Button](</img/Screen Shot 2021-11-14 at 10.59.12 AM.png>)
 
 Next, click on the `Add Data Source` button and you will see the window to select what type of data source to add.&#x20;
 
-![Selecting a Data Source Type](<../../.gitbook/assets/Screen Shot 2021-11-14 at 11.06.11 AM.png>)
+![Selecting a Data Source Type](</img/Screen Shot 2021-11-14 at 11.06.11 AM.png>)
 
 ### Types of Data Sources
 
@@ -47,4 +47,3 @@ The specific instructions for connecting to data sources can be found in the lin
 The last step in connecting your data to DataDistillr is linking your data with a project.  The project is intended to filter down your data from all available data to just those data sources you are working with. &#x20;
 
 Here is how to [link data to your project](../linking-data-to-your-project.md).&#x20;
-

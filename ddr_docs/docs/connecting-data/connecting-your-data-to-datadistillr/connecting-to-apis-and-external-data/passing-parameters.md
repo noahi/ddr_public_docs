@@ -18,7 +18,7 @@ If we wanted to see the Apache Foundation's projects, we could thus, create a UR
 
 To do that, simply follow the instructions on the previous page to set up a connection to GitHub, add an endpoint called `projects` and use the URL: `https://api.github.com/orgs/{org}/projects` in Endpoint URL field in your configuration, as shown below.
 
-![Github Project Example Configuration](<../../../.gitbook/assets/Screen Shot 2021-12-20 at 10.35.38 PM.png>)
+![Github Project Example Configuration](</img/Screen Shot 2021-12-20 at 10.35.38 PM.png>)
 
 Once you have done this, you could execute the following query to retrieve the Apache Foundation's projects:
 
@@ -30,9 +30,8 @@ WHERE org='apache'
 
 As you can see, including `WHERE org='apache'` in the query passes that parameter into the API when the data is retrieved. You can specify as many parameters as you want as long as the name in the curly braces is unique for each parameter.
 
-{% hint style="warning" %}
-When you include URL path parameters in your API endpoint, your queries will fail if you do not include them in the query `WHERE` clause.  Additionally, these filters must only be equality filters.&#x20;
-{% endhint %}
+!!! warning
+    When you include URL path parameters in your API endpoint, your queries will fail if you do not include them in the query `WHERE` clause.  Additionally, these filters must only be equality filters.&#x20;
 
 #### Specifying a Default Value for URL Path Parameter
 
@@ -49,7 +48,7 @@ As an example, the URL below allows you to specify the latitude, longitude, and 
 
 For our sunrise example, you would add the parameters as shown in the screen shot below:
 
-![Adding Parameters to API Configuration](<../../../.gitbook/assets/Screen Shot 2021-12-20 at 11.41.11 PM.png>)
+![Adding Parameters to API Configuration](</img/Screen Shot 2021-12-20 at 11.41.11 PM.png>)
 
 &#x20;Once you've added these parameters, you can pass these parameters in query as shown below:
 

@@ -1,16 +1,73 @@
-site_name: Datadistillr Docs
+site_name: DataDistillr
+
+
 
 nav:
-  - Home: index.md
+  - Welcome: README.md
   - Getting Started: 
-    - Getting Started: Getting-Started/getting_started.md
-    - Connecting A Data Source: Getting-Started/connecting-a-data-source-and-uploading-a-file.md
-    - Create An Account: Getting-Started/create-your-account.md
-    - Create Your First Project: Getting-Started/create-your-first-project.md
-    - Publish Your Data: Getting-Started/publishing-your-data.md
-    - Running A Query: Getting-Started/running-a-query.md
-    - Visualizing Your Data: Getting-Started/visualizing-your-data.md
+    - Getting Started: getting-started/README.md
+    - Create Your Account: getting-started/create-your-account.md
+    - Create Your First Project: getting-started/create-your-first-project.md
+    - Connecting A Data Source: getting-started/connecting-a-data-source-and-uploading-a-file.md
+    - Running A Query: getting-started/running-a-query.md
+    - Visualizing Your Data: getting-started/visualizing-your-data.md
+    - Publish Your Data: getting-started/publishing-your-data.md
+  - Connecting Data: 
+    - Linking Data To Your Project: connecting-data/linking-data-to-your-project.md
+    - Connecting Your Data To Datadistillr: 
+      - Connecting Your Data: connecting-data/connecting-your-data-to-datadistillr/README.md 
+      - Connecting To Remote Storage: connecting-data/connecting-your-data-to-datadistillr/connecting-to-remote-storage.md
+      - Uploading Files: connecting-data/connecting-your-data-to-datadistillr/uploading-files.md
+      - Connecting Databases: 
+        - Connecting Databases: connecting-data/connecting-your-data-to-datadistillr/connecting-databases/README.md
+        - Connect To Splunk: connecting-data/connecting-your-data-to-datadistillr/connecting-databases/connecting-to-splunk.md
+      - Connect To APIs And External Data:
+        - Connect to APIs: connecting-data/connecting-your-data-to-datadistillr/connecting-to-apis-and-external-data/README.md
+        - Connection Basics: connecting-data/connecting-your-data-to-datadistillr/connecting-to-apis-and-external-data/connection-basics.md
+        - Passing Parameters: connecting-data/connecting-your-data-to-datadistillr/connecting-to-apis-and-external-data/passing-parameters.md
+  - ❓ Getting Help: getting-help.md
+extra_css:
+  - stylesheets/extra.css
 theme:
-  name: material
-  # features:
-  #   - navigation.tabs
+  palette:
+    - primary: black
+    - accent: light blue
+  name: material 
+  font:
+    text: Inter
+  favicon: img/favicon.png
+  logo: img/favicon.png
+  icon:
+    admonition:
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+  features:
+    - navigation.tabs
+    - navigation.top
+
+
+markdown_extensions:
+  - meta
+  - toc:
+      permalink: "#"
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+
+
+
+

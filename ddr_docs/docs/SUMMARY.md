@@ -4,13 +4,13 @@
 
 ## Quick Start Guide
 
-* [Getting Started](quick-start-guide/getting-started/README.md)
-  * [➕ Create Your Account](quick-start-guide/getting-started/create-your-account.md)
-  * [🎬 Create Your First Project](quick-start-guide/getting-started/create-your-first-project.md)
-  * [📂 Connecting a Data Source and Uploading a File](quick-start-guide/getting-started/connecting-a-data-source-and-uploading-a-file.md)
-  * [🏃♂ Running a Query](quick-start-guide/getting-started/running-a-query.md)
-  * [📊 Visualizing your Data](quick-start-guide/getting-started/visualizing-your-data.md)
-  * [📰 Publishing Your Data](quick-start-guide/getting-started/publishing-your-data.md)
+* [Getting Started](getting-started/README.md)
+  * [➕ Create Your Account](getting-started/create-your-account.md)
+  * [🎬 Create Your First Project](getting-started/create-your-first-project.md)
+  * [📂 Connecting a Data Source and Uploading a File](getting-started/connecting-a-data-source-and-uploading-a-file.md)
+  * [🏃♂ Running a Query](getting-started/running-a-query.md)
+  * [📊 Visualizing your Data](getting-started/visualizing-your-data.md)
+  * [📰 Publishing Your Data](getting-started/publishing-your-data.md)
 
 ## Connecting Data
 
