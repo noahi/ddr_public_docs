@@ -10,17 +10,17 @@ This API returns fantasy football players for a given year.  The data is returne
 
 ![Select API from the available choices](</img/Screen Shot 2021-11-19 at 1.46.04 PM.png>)
 
-### Adding a Custom API
+### __Adding a Custom API__
 
 DataDistillr comes prepopulated with API configurations for popular APIs such as ServiceNow, SalesForce, Google Analytics and others.  In our case, we will need to select _Custom API_, as shown below.&#x20;
 
 ![Select Custom API](</img/Screen Shot 2021-11-19 at 1.48.27 PM.png>)
 
-### Name Your Connection
+### __Name Your Connection__
 
 The next step is to give your connection a unique name.  This name will appear in queries and should be descriptive of what the API is.  It also should only contain alphanumeric characters and underscores.
 
-#### Understanding DataDistillr's API Namespaces
+#### __Understanding DataDistillr's API Namespaces__
 
 Once you have created your connection, DataDistillr allows you to define endpoints for the API.  This may seem silly for an API with only one option, but consider something like github, or a banking API.  There are likely multiple datasets which you'd like to access.  Defining multiple endpoints per connection allows you to have logical, clean queries.
 
@@ -38,7 +38,7 @@ For our example here, give your API a name, and then click on the Add button by 
 
 ![Add your API](</img/Screen Shot 2021-11-19 at 1.54.13 PM.png>)
 
-### Adding an Endpoint
+### __Adding an Endpoint__
 
 Now you are ready to add an endpoint to your API connection.  For our simple example, the only fields you will need to fill out are the endpoint name, the URL, the request method (`GET`) and the data format, as shown in the screenshot below.&#x20;
 
@@ -46,7 +46,7 @@ Now you are ready to add an endpoint to your API connection.  For our simple exa
 
 Once you've done that, save your work and you are ready to query!
 
-### Querying Your APIs
+### __Querying Your APIs__
 
 Now that you've added your data, you can query your data.  In the query veiw, you will see your endpoint listed, but if you want to type in a query, or use this endpoint in a pre-existing query, you can run a query like the one below:
 

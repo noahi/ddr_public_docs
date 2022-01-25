@@ -6,7 +6,7 @@ description: This section explains now to connect your data sources to DataDisti
 
 Connecting your data sources to DataDistillr is as easy as filling out a form.  This section will guide you through the process of connecting your data source to DataDistillr.  Once you have connected your data source to DataDistillr, it is important to remember to connect it to your project(s) otherwise you will not be able to query your data!
 
-### Before You Begin
+### __Before You Begin__
 
 Before you begin, you will need to know a few things about the data source you are trying to connect to DataDistillr:
 
@@ -15,11 +15,11 @@ Before you begin, you will need to know a few things about the data source you a
 * Access credentials.
 * A unique name for your data source.  This is how you will access the data in queries.
 
-#### Can I use LDAP or Active Directory with DataDistillr?
+#### __Can I use LDAP or Active Directory with DataDistillr?__
 
 DataDistillr does support integrations with single sign on (SSO) systems, as well as enterprise identification and authentication systems such as LDAP and active directory.  These require an enterprise account, so please contact enterprise sales for more information.&#x20;
 
-## Adding Your Data Source
+## __Adding Your Data Source__
 
 At the top of the screen, click on the `Data Sources` link.  This will take you to the Data Sources screen where you can view the data sources you already have connected.&#x20;
 
@@ -29,7 +29,7 @@ Next, click on the `Add Data Source` button and you will see the window to selec
 
 ![Selecting a Data Source Type](</img/Screen Shot 2021-11-14 at 11.06.11 AM.png>)
 
-### Types of Data Sources
+### __Types of Data Sources__
 
 While DataDistillr supports a wide range of various data sources, for simplicity's sake, we divide them up into four categories which are:
 
@@ -42,7 +42,7 @@ When you query the data, they will more or less all feel exactly the same, but t
 
 The specific instructions for connecting to data sources can be found in the links above. &#x20;
 
-### Linking Your Data With A Project
+### __Linking Your Data With A Project__
 
 The last step in connecting your data to DataDistillr is linking your data with a project.  The project is intended to filter down your data from all available data to just those data sources you are working with. &#x20;
 

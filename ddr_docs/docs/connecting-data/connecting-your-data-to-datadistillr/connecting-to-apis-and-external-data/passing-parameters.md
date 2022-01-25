@@ -6,7 +6,7 @@ description: This page explains how to pass parameters to APIs in a query
 
 Now that you've learned how to connect DataDistillr to an API to query external data sources, let's take it to the next level and learn how to pass parameters to the API directly in the query.  Depending on your API, these parameters can either be passed as part of the URL or as query parameters.  Let's first look at parameters in the URL, and for that, we'll use the GitHub API which is available here: [https://docs.github.com/en/rest](https://docs.github.com/en/rest).
 
-### Parameters in the URL Path
+### __Parameters in the URL Path__
 
 Many APIs will require you to specify arguments that are part of the URL path.  For our example, we will retrieve an organization's list of public projects.  GitHub's API docs provide a base URL for all API calls of [https://api.github.com](https://api.github.com).  In the API docs, there is an explanation as to how to query an organization's projects ([https://docs.github.com/en/rest/reference/projects](https://docs.github.com/en/rest/reference/projects)). As you can see, GitHub specifies that the path is:&#x20;
 
@@ -33,11 +33,11 @@ As you can see, including `WHERE org='apache'` in the query passes that paramete
 !!! warning
     When you include URL path parameters in your API endpoint, your queries will fail if you do not include them in the query `WHERE` clause.  Additionally, these filters must only be equality filters.&#x20;
 
-#### Specifying a Default Value for URL Path Parameter
+#### __Specifying a Default Value for URL Path Parameter__
 
 You can specify a default parameter in the URL parameter as shown here: `https://api.github.com/org/{org=apache}/projects`.   If you do not include a WHERE clause in a query, `apache` will be passed in the URL.&#x20;
 
-### Passing Parameters as URL Query Options
+### __Passing Parameters as URL Query Options__
 
 In addition to passing parameters in the URL, you can also pass parameters as part of the URL string.  Sometimes these are mandatory, sometimes not, but regardless, you can configure DataDistillr to pass these parameters in your API queries.  As an example, we will use the an API for calculating sunrise/sunset times which can be found here: [https://sunrise-sunset.org/api](https://sunrise-sunset.org/api).
 

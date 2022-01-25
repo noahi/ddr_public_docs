@@ -16,9 +16,7 @@ ORDER BY Customer_Count DESC
 
 This query is an _aggregate query_ and will count the number of records by country name.  This pattern of aggregation is extremely useful for summarizing data.
 
-!!! info
-    #### Did You Notice the Star?
-
+!!! info "Did You Notice the Star?"
     Did you notice the asterisk in the file path?  One very powerful feature of DataDistillr is that it can query directories of files as if they were one big file.  The query above is actually executing over any files in the directory with the naming pattern `Dummy-Customers-n.xlsx`.
 
 
