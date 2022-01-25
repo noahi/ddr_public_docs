@@ -54,6 +54,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.top
+    - navigation.indexes
 
 markdown_extensions:
   - meta
