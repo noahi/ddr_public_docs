@@ -6,10 +6,10 @@ nav:
     - Getting Started: getting-started/README.md
     - Create Your Account: getting-started/create-your-account.md
     - Create Your First Project: getting-started/create-your-first-project.md
-    - Connecting A Data Source: getting-started/connecting-a-data-source-and-uploading-a-file.md
-    - Running A Query: getting-started/running-a-query.md
+    - Connecting a Data Source and Uploading a File : getting-started/connecting-a-data-source-and-uploading-a-file.md
+    - Running a Query: getting-started/running-a-query.md
     - Visualizing Your Data: getting-started/visualizing-your-data.md
-    - Publish Your Data: getting-started/publishing-your-data.md
+    - Publishing Your Data: getting-started/publishing-your-data.md
   - Connecting Data: 
     - Linking Data To Your Project: connecting-data/linking-data-to-your-project.md
     - Connecting Your Data To Datadistillr: 

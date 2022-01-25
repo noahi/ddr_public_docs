@@ -26,7 +26,7 @@ Next, we are going to visualize this data.  Click on the _Visualize_ button at t
 
 ![Visualization Button](</img/Screen Shot 2021-11-16 at 10.56.38 PM.png>)
 
-### Visualization Options
+### __Visualization Options__
 
 Next, you will see the visualization screen with options on the left as shown below:
 
