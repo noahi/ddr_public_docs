@@ -4,9 +4,9 @@ description: How to Connect DataDistillr to a Simple API
 
 # Connection Basics
 
-Let's start with connecting the most simple API possible.  There is a fantasy football API available here: [https://www.fantasyfootballdatapros.com/api/players/2019/1](https://www.fantasyfootballdatapros.com/api/players/2019/1).
+Let's start with connecting the most simple API possible.  There is a fantasy football API available here: [https://www.fantasyfootballdatapros.com/api/players/2019/1](https://www.fantasyfootballdatapros.com/api/players/2019/1){target="_blank"}.
 
-This API returns fantasy football players for a given year.  The data is returned in JSON format and is completely static.  Let's look at how you could connect this API to DataDistillr.  First, follow the [earlier instructions about connecting to a data source](../).  When you get to the window to choose the data source type, select API as shown below.&#x20;
+This API returns fantasy football players for a given year.  The data is returned in JSON format and is completely static.  Let's look at how you could connect this API to DataDistillr.  First, follow the [earlier instructions about connecting to a data source](../../).  When you get to the window to choose the data source type, select API as shown below.&#x20;
 
 ![Select API from the available choices](</img/Screen Shot 2021-11-19 at 1.46.04 PM.png>)
 

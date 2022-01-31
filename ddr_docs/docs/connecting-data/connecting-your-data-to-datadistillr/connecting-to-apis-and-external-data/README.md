@@ -9,7 +9,7 @@ One of DataDistillr's most powerful features is the ability to connect to extern
 !!! warning "Considerations with Remote Data"
     When querying remote data, be sure to comply with the data source owner's terms of service.  Users found to be violating 3rd party terms of service will have their remote connections removed.
 
-    #### Dealing with Latency Concerns
+    __Dealing with Latency Concerns__
 
     If you have a remote data source that you are repeatedly querying, and the data is not changing, we encourage you to save this data to your DataDistillr account. Your queries will return faster, and you will not be subject to any 3rd party's bandwidth restrictions.
 
