@@ -14,7 +14,7 @@ This API returns fantasy football players for a given year.  The data is returne
 
 DataDistillr comes prepopulated with API configurations for popular APIs such as ServiceNow, SalesForce, Google Analytics and others.  In our case, we will need to select _Custom API_, as shown below.&#x20;
 
-![Select Custom API](<https://github.com/datadistillr/ddr_public_docs/blob/master/docs/img/Screen Shot 2021-11-19 at 1.48.27 PM.png>)
+![Select Custom API](<../../../img/Screen Shot 2021-11-19 at 1.48.27 PM.png>)
 
 ### __Name Your Connection__
 
