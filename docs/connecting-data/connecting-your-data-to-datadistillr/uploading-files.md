@@ -14,7 +14,7 @@ Next, fill out the name of your data source. Don't forget to select the icon col
 
 If didn't add this in the context of a project, don't forget that you will have to [link the upload data source to your project](../linking-data-to-your-project.md).
 
-## Uploading Files <a href="#uploading-files" id="uploading-files"></a>
+## __Uploading Files__ 
 
 Once you have created an upload file data source is that is linked to a project, you can upload files directly to DataDistillr.When you close the window to create the data source, you will be taken to the view of file upload sources. From there, click on the down arrow and you will see an area to upload your files. You can simply drag and drop files or folders directly into DataDistillr.
 

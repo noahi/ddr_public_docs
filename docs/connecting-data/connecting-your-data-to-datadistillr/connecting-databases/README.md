@@ -4,7 +4,7 @@ description: How to connect relational and NoSQL databases to DataDistillr
 
 # Connecting Databases
 
-## Relational Databases
+## __Relational Databases__
 
 DataDistillr can connect to a wide variety of commonly used relational databases.  DataDistillr uses JDBC as the connection mechanism, so if there is a particular database or other source that has a JDBC driver, and it is not listed as a source that we support, please [email our support team](mailto:support@datadistllr.com) and we can add it. &#x20;
 
@@ -24,7 +24,7 @@ The connection procedure for relational databases is essentially the same for mo
 * Your access credentials
 * Any other configuration variables needed to connect.
 
-### Adding Your Relational Database
+### __Adding Your Relational Database__
 
 After clicking on the `Add Data Source` button and selecting `Database`  you will see a selection of databases as shown below.  Simply select the database you are connecting to DataDistillr.&#x20;
 
