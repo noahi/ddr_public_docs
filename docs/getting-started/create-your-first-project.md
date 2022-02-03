@@ -8,7 +8,7 @@ DataDistillr is organized around the concept of projects.  You should think abou
 
 But first, you'll have to create one.  To create your first project, simply click on the _Create Project_ button at the top of the screen.
 
-![Create a project](</img/Screen Shot 2021-11-15 at 5.12.44 PM (1).png>)
+![Create a project](<../img/Screen Shot 2021-11-15 at 5.12.44 PM (1).png>)
 
 Once you've done that, the _Create Project_ screens will walk you through creating your first project.
 
@@ -16,6 +16,6 @@ Once you've done that, the _Create Project_ screens will walk you through creati
 
 After creating your project you will be taken to the screen below to name your project.  Simply enter the project name and an optional description.  Don't forget to pick an icon and icon color!
 
-![Create Your First Project](</img/Screen Shot 2021-11-15 at 6.41.05 PM.png>)
+![Create Your First Project](<../img/Screen Shot 2021-11-15 at 6.41.05 PM.png>)
 
 Once you've done that, click next and you'll learn how to connect your data to DataDistillr.

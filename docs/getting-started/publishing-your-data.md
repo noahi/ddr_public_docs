@@ -12,7 +12,7 @@ In this final installment of the quick start tutorial, you will learn how to tak
 
 After you've run a query, in the top bar, you will see a button labeled _Manage API Access._  Click on that button as shown below.
 
-![Manage API Access Button](</img/Screen Shot 2021-11-23 at 11.46.54 PM.png>)
+![Manage API Access Button](<../img/Screen Shot 2021-11-23 at 11.46.54 PM.png>)
 
 ### __API Management Screen__
 
@@ -26,7 +26,7 @@ The API Management Screen is where you can control access to the various dataset
 
 Since this is your first project, you will have to create an API Access Client.  Enter a name and enable the API app.&#x20;
 
-![Create an API client](</img/Screen Shot 2021-11-24 at 12.10.39 AM.png>)
+![Create an API client](<../img/Screen Shot 2021-11-24 at 12.10.39 AM.png>)
 
 #### __Understanding API Permissions__
 
@@ -37,7 +37,7 @@ When you create an API Access Client, all your projects and queries within those
 
 You can expand a project tab and see all the queries in a project.  From there, you can set the access permissions for every dataset, as well as view API usage statistics.
 
-![API Access Management](</img/Screen Shot 2021-11-23 at 11.52.23 PM.png>)
+![API Access Management](<../img/Screen Shot 2021-11-23 at 11.52.23 PM.png>)
 
 ### __Accessing Published Data__
 

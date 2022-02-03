@@ -6,11 +6,11 @@ description: Running your first query in DataDistillr
 
 Now that you've setup a project, and uploaded an Excel file, you are ready to start querying data.  From the project page, click on the query button and you will be taken to the query view.&#x20;
 
-![The query button](</img/Screen Shot 2021-11-16 at 9.29.36 PM.png>)
+![The query button](<../img/Screen Shot 2021-11-16 at 9.29.36 PM.png>)
 
 The screenshot below shows our query viewer and there's a lot here.
 
-![Query Viewer](</img/Screen Shot 2021-11-16 at 9.33.10 PM.png>)
+![Query Viewer](<../img/Screen Shot 2021-11-16 at 9.33.10 PM.png>)
 
 ### __Viewing the Schema__
 
@@ -36,7 +36,7 @@ This is the most basic query you can run.  This query will display all available
 
 To Run this Query, you may press either the purple _Run_ button, or the gray _Run Query_ button as shown below. The differences in these buttons will be explained in more detail in the Additional Querying Options section.
 
-![Run Query](</img/Screen Shot 2021-11-23 at 8.54.05 AM.png>)
+![Run Query](<../img/Screen Shot 2021-11-23 at 8.54.05 AM.png>)
 
 Now, let's modify this query slightly.  Replace the pre-populated query with the query below:
 
@@ -48,7 +48,7 @@ LIMIT 1000
 
 Unlike the previous query, this query projects only two columns, the IP address and then a derived column which is the country name.
 
-![Results View](</img/Screen Shot 2021-11-16 at 10.43.31 PM.png>)
+![Results View](<../img/Screen Shot 2021-11-16 at 10.43.31 PM.png>)
 
 !!! info
     Enriching your data is extremely useful in data analysis.  DataDistillr has many functions such as the one you saw above which can enrich artifacts such as phone numbers, IP Addresses, bank routing numbers, MAC addresses, state and country codes and much more.  See the section: Enriching your Data for more!

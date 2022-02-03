@@ -22,17 +22,17 @@ This query is an _aggregate query_ and will count the number of records by count
 
 Next, we are going to visualize this data.  Click on the _Visualize_ button at the top of the screen to visualize the data.
 
-![Visualization Button](</img/Screen Shot 2021-11-16 at 10.56.38 PM.png>)
+![Visualization Button](<../img/Screen Shot 2021-11-16 at 10.56.38 PM.png>)
 
 ### __Visualization Options__
 
 Next, you will see the visualization screen with options on the left as shown below:
 
-![Visualization Screen](</img/Screen Shot 2021-11-23 at 9.25.36 AM.png>)
+![Visualization Screen](<../img/Screen Shot 2021-11-23 at 9.25.36 AM.png>)
 
 For _Graph Type_, select _Bar_. For _Limit_, enter _10_.  Double click on the _Series_, enter the name of your data, and Press _Save_.  Next, for the X-Axis, select `Country,` and for the Y-Axis, select `Customer_Count`.  You should now have a visualization that looks something like the chart below:
 
-![Customers by Country](</img/Screen Shot 2021-11-23 at 9.27.46 AM.png>)
+![Customers by Country](<../img/Screen Shot 2021-11-23 at 9.27.46 AM.png>)
 
 Congrats!  You've created your first visualization using DataDistillr!  For a more complete view of DataDistillr's visualization capabilities, please refer to the Visualization section of the documentation.&#x20;
 
