@@ -42,7 +42,7 @@ For our example here, give your API a name, and then click on the Add button by 
 
 Now you are ready to add an endpoint to your API connection.  For our simple example, the only fields you will need to fill out are the endpoint name, the URL, the request method (`GET`) and the data format, as shown in the screenshot below.&#x20;
 
-![Adding an Endpoint](</../../..img/Screen Shot 2021-11-19 at 2.43.02 PM.png>)
+![Adding an Endpoint](<../../../img/Screen Shot 2021-11-19 at 2.43.02 PM.png>)
 
 Once you've done that, save your work and you are ready to query!
 
