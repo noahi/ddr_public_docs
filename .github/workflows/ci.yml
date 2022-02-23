@@ -13,7 +13,7 @@ jobs:
           python-version: 3.x
       - run: pip install \
               mkdocs-material \
-              redirects \
+              mkdocs-redirects \
       - run: mkdocs gh-deploy --force
 
 
