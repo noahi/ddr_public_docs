@@ -1,7 +1,6 @@
 site_name: DataDistillr
 
 nav:
-  - Welcome: README.md
   - Getting Started: 
     - Getting Started: getting-started/README.md
     - Create Your Account: getting-started/create-your-account.md
