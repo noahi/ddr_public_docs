@@ -1,7 +1,6 @@
 site_name: DataDistillr
 
 nav:
-  - Welcome: README.md
   - Getting Started: 
     - Getting Started: getting-started/README.md
     - Create Your Account: getting-started/create-your-account.md
@@ -81,6 +80,12 @@ extra:
       link: https://www.youtube.com/channel/UC4bsXaNJ8BYt4bP2Ab02j4w
   generator: false
   homepage: https://www.datadistillr.com/
+
+plugins:
+    - redirects:
+        redirect_maps:
+          'README.md': getting-started/README.md
+
 
 
 copyright: Copyright &copy; 2021 DataDistillr
