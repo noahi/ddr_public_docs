@@ -81,10 +81,6 @@ extra:
   generator: false
   homepage: https://www.datadistillr.com/
 
-plugins:
-    - redirects:
-        redirect_maps:
-          'README.md': getting-started/README.md
 
 
 
